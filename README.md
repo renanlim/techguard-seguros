@@ -68,7 +68,7 @@ Contratar seguro para equipamentos eletrônicos ainda é um processo burocrátic
 
 Backlog e Sprint 1 construídos no Jira (projeto TG — techguard seguros):
 
-https://renanbio20199.atlassian.net/jira/software/projects/TG/boards/1/backlog
+https://renanbio20199.atlassian.net/jira/software/projects/TG/boards/1/backlog?atlOrigin=eyJpIjoiZGZhZTViY2NiNjI2NDJjOTgzZmQxM2ZjMmMwZTkzZjMiLCJwIjoiaiJ9
 
 **Sprint 1:** 17/06/2026 a 01/07/2026 · 10 itens · 40 story points
 
